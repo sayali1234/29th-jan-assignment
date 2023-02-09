@@ -1,0 +1,212 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bb6db0c4-e7f8-4b72-930d-a57224c16493",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q1) Who developed python programming language?\n",
+    "Ans : Python was created by Guido van Rossum."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d3972e94-4748-4daa-8e7b-8b2706dd2de8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q2) Which type of programming does python support ?\n",
+    "Ans : Python is an interpreted,interactive,object-oriented programming language.It supports multiple programming such as procedural and functional programming."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2eae4736-2661-4f68-8773-b112dbe389de",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q3) Is python case sensitive when dealing with identifiers?\n",
+    "Ans : Yes,python is case sensitive language.It treats uppercase & lowercase characters differently.This applies to identifiers too.You must avoid the same name with different cases while naming identifiers."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5d5ef426-a1c0-4cf8-9cef-ddf67b048004",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q4) What is the correct extension of the python file?\n",
+    "Ans: Python file extension are .py,.pyi,.pyc,.pyd,.pyo,.pyw,.pyz"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "51e47eb4-bf45-4022-9461-eb51cb09871d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q5) Is python code compiled or interpreted?\n",
+    "Ans: Python is an interpreted language."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "590cf88e-f438-41d1-be10-4850203a32d2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q6) Name a few blocks of code used to define in python language?\n",
+    "Ans: A python program is constructed from code blocks.The blocks are a module,function body,class definition."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d3e00b66-7561-4581-b718-ea1e85d9ec28",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q7) State a character used to give single-line comments in python?\n",
+    "Ans: Hash character(#) is used to commnt the line in the python program."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2b187931-b9bd-40c5-965c-2bb6dd82b3e9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q8) Mention function which can help us to find the version of python that we are currently working on?\n",
+    "Ans: The function sys.version can help us to find the version of python that we are currently working on."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c3a4e888-5f16-406e-8a0f-a3f10508abbc",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q9) Python supports the cration of anonymous functions at runtime using a construct called _______\n",
+    "Ans: Python supports the cration of anonymous functions at runtime using a construct called lambda."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d23079bd-ad80-4516-a74c-cae18a7b6255",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q10) What does pip stand for python?\n",
+    "Ans: pip stand for \"preferred installer program\" in python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a064bfca-4507-4b01-b89c-265aaa90f578",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q11) Mention a few built-in functions in python?\n",
+    "Ans: Built-in functions in python are print() function,type() fuction,input() function,pow() function,max() function,abs() function,sum() function respectively."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8a7713fb-dc8b-4655-ae5c-86b5ab8d3bf8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q12) What is the maximum possible length of an identifier in python?\n",
+    "Ans: An identifier can have a maximum length of 79 characters in python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7e7f2398-5159-4a29-ac2e-eb2ac5f14ecf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q13) What are the benefits of using python?\n",
+    "Ans: 1) Python is commonly usrd for developing websites and software,task automation,data analysis,data visualisation.\n",
+    "     2) computer graphics\n",
+    "     3) system automation and administration\n",
+    "     4) basic game developement\n",
+    "     5) security and penetration testing\n",
+    "     6) finance and trending"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "650df949-f2c0-42d5-8191-aee375e6aa5d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q14) How is memory managed in python?\n",
+    "Ans: Memory management in python involves a private heap containing all python objects and data structures."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "296a89b6-d1c6-4510-a870-c400ec9750b3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q15) How to install python on Windows and set path variable?\n",
+    "Ans: The complete path of is given as:\n",
+    "    1) Right clicking the PC and going to properties.\n",
+    "    2) Clicking on an advanced system settings in the menu on the left.\n",
+    "    3) Clicking on the Environment variables button on the bottom right.\n",
+    "    4) In the system varibles section,selecting the Path variable and clicking on Edit. The next screen will show all the directions that are currently a part of\n",
+    "       the PATH variable.\n",
+    "    5)Clicking on New and entering python's install directory."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9cf597e4-6afe-4130-b127-35a712946b80",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Q16) Is identation is required in python?\n",
+    "Ans: Yes,identation is mandatory in python to define the blocks of statments."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
